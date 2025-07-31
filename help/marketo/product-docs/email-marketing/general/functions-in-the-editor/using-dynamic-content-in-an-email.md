@@ -15,7 +15,7 @@ Use Dynamic Content in Emails to send your leads targeted information.
 
 >[!NOTE]
 >
->The use of variables within dynamic content in an email is only supported when using Trigger Campaigns. It is **not** supported when using Batch Campaigns.
+>The use of email script (Velocity) variables within dynamic content in an email is only supported when using Trigger Campaigns. It is **not** supported when using Batch Campaigns.
 
 ## Add Segmentation {#add-segmentation}
 
